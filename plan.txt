@@ -1,6 +1,12 @@
  — D&D App Outline —
 Database | MongoDB
 	Models:
+		Location:
+
+		Player:
+			
+		NPC:
+		
 
 Server | NodeJS
 	GET:
