@@ -1,0 +1,20 @@
+ — D&D App Outline —
+Database | MongoDB
+	Models:
+
+Server | NodeJS
+	GET:
+
+	POST:
+
+	PUT:
+
+	DELETE:
+
+Front End | ReactJS
+	UI:
+
+	UX:
+		
+
+	Components:
