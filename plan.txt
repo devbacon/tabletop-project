@@ -1,26 +1,48 @@
  — D&D App Outline —
-Database | MongoDB
-	Models:
-		Location:
+Objectives
+  Users will be able to...
+    Create an account
+    Login with username and password
+    Create multiple characters
+    Save progress of each character
 
-		Player:
+  Player will be able to...
+		Explore and act freely
+		Interact with any NPC
+		Equip items to weapon and armor slots
+
+	NPC’s should...
+		Act on a turn based system with player
+
+	Locations should...
+		Consist of continents, provinces, and areas
+		Have distinct and descriptive travel routes
+		Have hidden areas
+		Be able to link together
+
+Database | MongoDB
+	Models
+    User
+
+		Player
 			
-		NPC:
+		NPC
+
+    Location
 		
 
 Server | NodeJS
-	GET:
+	GET
 
-	POST:
+	POST
 
-	PUT:
+	PUT
 
-	DELETE:
+	DELETE
 
 Front End | ReactJS
-	UI:
+	UI
 
-	UX:
-		
+	UX
 
-	Components:
+	Components
