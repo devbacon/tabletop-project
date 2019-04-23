@@ -1,2 +1,2 @@
 # tabletop-project
-Text adventure RPG with tabletop mechanics
+RPG adventure utility with tabletop game mechanics.
