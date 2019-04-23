@@ -1,0 +1,19 @@
+{
+  "name": "tabletop-project",
+  "version": "1.0.0",
+  "description": "RPG adventure utility with tabletop game mechanics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devbacon/tabletop-project.git"
+  },
+  "author": "Devon Bacon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devbacon/tabletop-project/issues"
+  },
+  "homepage": "https://github.com/devbacon/tabletop-project#readme"
+}
